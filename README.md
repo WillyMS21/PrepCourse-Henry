@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-William Neira Diaz CC:1033679881
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora
